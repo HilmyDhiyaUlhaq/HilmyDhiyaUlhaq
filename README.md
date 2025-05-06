@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-![Banner Hilmy](img/gambargithub.png)
 
 ![Kiba](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExank4ODRxZmV2MTg1a2ZzMmtqcnUxajN4bmJib2xueWxkMXUyandncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12V1BSsbyd5KSc/giphy.gif)
 
@@ -36,17 +35,5 @@ Hello I am Hilmy<br><br>- 🔭 I’m currently working on projects<br>- 🌱 I�
   <img src="https://profile-counter.glitch.me/HilmyDhiyaUlhaq/count.svg?"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/HilmyDhiyaUlhaq/HilmyDhiyaUlhaq/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HilmyDhiyaUlhaq/HilmyDhiyaUlhaq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HilmyDhiyaUlhaq/HilmyDhiyaUlhaq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HilmyDhiyaUlhaq/HilmyDhiyaUlhaq/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
