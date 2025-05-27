@@ -3,7 +3,6 @@
 
 ![Kiba](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExank4ODRxZmV2MTg1a2ZzMmtqcnUxajN4bmJib2xueWxkMXUyandncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12V1BSsbyd5KSc/giphy.gif)
 
-Hello I am Hilmy<br><br>- 🔭 I’m currently working on projects<br>- 🌱 I’m currently learning anything<br>- 👯 I’m looking to collaborate on someone who will<br>- 🤔 I’m looking for help with fwends<br>- 💬 Ask me about anything<br>- 📫 How to reach me ig: hilmyulhaq04<br>- ⚡ Fun fact: Like Spicy Challenge<br>
 
 ## 🌐 Socials:
 
